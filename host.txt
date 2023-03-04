@@ -1,0 +1,13 @@
+
+호스팅이란?
+    서버(컴퓨터)를 전체 혹은 일부를 임대하여 사용하는 것
+
+
+
+
+1.
+Dothome
+https://www.dothome.co.kr/?gclid=Cj0KCQiA0oagBhDHARIsAI-BbgdPTPPtop3WAcWqbWHkrNQnl_WpAztf2xRdaLHA1Yc7LVrC9FU5qecaAo-aEALw_wcB
+
+FTP
+https://filezilla-project.org/
